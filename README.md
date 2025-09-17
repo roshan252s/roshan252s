@@ -1,16 +1,43 @@
-## Hi there 👋
+# ✨Roshan Shah
+**`Web Developer`**
 
-<!--
-**roshan252s/roshan252s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+- Learning full-stack web development with **`JavaScript, React, and Node.js`**.  
+- Certified in **`UI/UX Design` by Google**.  
+- Building projects like **Netflix Clone** and **Twitter Clone**.  
+- Passionate about **solving problems and creating user-friendly apps**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+
+## 📈 GitHub Stats
+
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshan252s&show_icons=true&theme=light)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan252s&layout=compact&theme=light)
+
+
+---
+
+## 📫 Contact Me
+`Connect with me on social media :`
+
+
+<a href="https://www.linkedin.com/in/roshan252k/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<!-- <a href="https://www.facebook.com/roshan252s/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=fb" alt="Facebook" />
+</a> -->
+<a href="https://www.instagram.com/roshan252s/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+<a href="https://twitter.com/roshan252s/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+</a>
+
+---

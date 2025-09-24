@@ -27,7 +27,7 @@
 `Connect with me on social media :`
 
 
-<a href="https://www.linkedin.com/in/roshan252k/" target="blank">
+<a href="https://www.linkedin.com/in/roshan252s/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <!-- <a href="https://www.facebook.com/roshan252s/" target="_blank">

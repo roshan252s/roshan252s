@@ -30,10 +30,7 @@
 <a href="https://www.linkedin.com/in/roshan252s/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<!-- <a href="https://www.facebook.com/roshan252s/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=fb" alt="Facebook" />
-</a> -->
-<a href="https://www.instagram.com/roshan252s/" target="blank">
+<a href="https://www.instagram.com/roshan252s/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 <a href="https://twitter.com/roshan252s/" target="_blank">

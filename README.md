@@ -12,17 +12,6 @@
 ---
 
 
-
-## 📈 GitHub Stats
-
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshan252s&show_icons=true&theme=light)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan252s&layout=compact&theme=light)
-
-
----
-
 ## 📫 Contact Me
 `Connect with me on social media :`
 

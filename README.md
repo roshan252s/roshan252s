@@ -5,7 +5,7 @@
 ## About Me
 - Learning full-stack web development with **`JavaScript, React, and Node.js`**.  
 - Certified in **`UI/UX Design` by Google**.  
-- Building projects like **Netflix Clone** and **Twitter Clone**.  
+- Building projects like **Netflix Clone** and **Music Player**.  
 - Passionate about **solving problems and creating user-friendly apps**.
 
 

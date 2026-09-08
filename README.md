@@ -1,29 +1,23 @@
-# Roshan Shah
-**`Web Developer`**
 
 
-## About Me
-- Learning full-stack web development with **`JavaScript, React, and Node.js`**.  
-- Certified in **`UI/UX Design` by Google**.  
-- Building projects like **Netflix Clone** and **Music Player**.  
-- Passionate about **solving problems and creating user-friendly apps**.
+# Hi, I'm Roshan Shah 👋 | Aspiring Cybersecurity Analyst
 
+🛡️ **Focus:** Security Operations, Threat Analysis, Application Security, & SQL Investigations  
+🎓 **Current Learning:** Google Cybersecurity Professional Certificate (4/9 Completed)  
+🔗 **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com)
 
 ---
 
-
-## 📫 Contact Me
-`Connect with me on social media :`
-
-
-<a href="https://www.linkedin.com/in/roshan252s/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/roshan252s/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
-<a href="https://twitter.com/roshan252s/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-</a>
+### 🛠️ Technical Skills & Tools
+- **Core Security:** Incident Response Basics, Security Frameworks (NIST CSF), Threat Analysis
+- **Systems & Databases:** Linux (CLI, Permissions), Windows, SQL (Log Analysis & Auditing)
+- **Development & Scripting:** JavaScript, Node.js (Useful for AppSec, Log Parsing, & Automation)
 
 ---
+
+### 📌 Featured Projects
+- 📁 **[Linux & SQL Security Labs](https://github.com/roshan252s/linux-sql-security-labs):** Practical log investigations and system permission audits from Google Cybersecurity Course 4.
+
+---
+
+*Leveraging a strong foundation in Web Development to transition into Security Operations & Application Security.*

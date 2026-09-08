@@ -4,7 +4,7 @@
 
 🛡️ **Focus:** Security Operations, Threat Analysis, Application Security, & SQL Investigations  
 🎓 **Current Learning:** Google Cybersecurity Professional Certificate (4/9 Completed)  
-🔗 **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com)
+🔗 **LinkedIn:**(https://linkedin.com/roshan252s)
 
 ---
 
